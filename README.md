@@ -6,7 +6,7 @@ Show screenshots how an app works
 # Main Page
 <p align="center">
   <img src="https://github.com/HelenaMaslowska/Figma-Essentials-Course-Gallery/assets/44245185/7883991a-32de-48ad-99d2-de217880887a" />
-  <img src="https://github.com/HelenaMaslowska/Figma-Essentials-Course-Gallery/assets/44245185/b86dcd6d-d659-4a4d-b996-6828cd192da7" />
+  <img src="https://github.com/HelenaMaslowska/Figma-Essentials-Course-Gallery/assets/44245185/85fbe98a-8141-471c-a739-2d6bfeba410e" />
 </p>
 
 # Landing Page
@@ -16,17 +16,21 @@ Show screenshots how an app works
 
 # Posts
 <p align="center">
-  <img src="https://github.com/HelenaMaslowska/Figma-Essentials-Course-Gallery/assets/44245185/68733708-ead0-496f-b9c4-b676c185deb5" />
-  <img src="https://github.com/HelenaMaslowska/Figma-Essentials-Course-Gallery/assets/44245185/54607bf9-94a3-4289-8078-116a61b271d7" />
+  <img src="https://github.com/HelenaMaslowska/Figma-Essentials-Course-Gallery/assets/44245185/6a2e4fde-fbf9-4272-852b-14f60c4be248" />
+
 </p>
 
-
-# Order page
+# Comments
 <p align="center">
-  <img src="https://github.com/HelenaMaslowska/Figma-Essentials-Course-Gallery/assets/44245185/7f591e2e-08a4-4ca9-b826-844ac7738bfe" />
+  <img src="https://github.com/HelenaMaslowska/Figma-Essentials-Course-Gallery/assets/44245185/77d797a1-af36-4da5-b9fb-78cebe980656" />
+</p>
+
+# Order Page
+<p align="center">
+  <img src="https://github.com/HelenaMaslowska/Figma-Essentials-Course-Gallery/assets/44245185/36783367-eab3-44fc-a1e2-486280779ec6" />
 </p>
 
 # Animation
-Here is my custom animation created in Figma, I used smart animate.
-![animate](https://github.com/HelenaMaslowska/Figma-Essentials-Course-Gallery/assets/44245185/7dd820fc-0726-4fcd-846b-109c39c62910)
-
+<p align="center">
+  <img src="https://github.com/HelenaMaslowska/Figma-Essentials-Course-Gallery/assets/44245185/30da2278-990d-4260-a442-b2d36dd8b5a3" />
+</p>
