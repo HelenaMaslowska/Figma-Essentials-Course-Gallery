@@ -1,4 +1,4 @@
-# Figma-Essentials-Course-Gallery
+# Figma Essentials Course 
 This repository includes screenshots from Figma, providing a visual overview of the design project. These screenshots showcase the carefully selected colors and the overall design, offering a glimpse into the creative process.
 
 [Here](https://www.figma.com/proto/synI6qyf9oSMwH868VxKOt/Learning-draft?page-id=7%3A21&type=design&node-id=7-23&viewport=306%2C435%2C0.13&t=BGW4XBAfTbdgf5J5-1&scaling=scale-down&starting-point-node-id=7%3A22&show-proto-sidebar=1&mode=design) is a link to the app shown below. 
