@@ -5,29 +5,30 @@ Show screenshots how an app works
 
 # Main Page
 <p align="center">
-  <img src="https://github.com/HelenaMaslowska/Figma-Essentials-Course-Gallery/assets/44245185/7883991a-32de-48ad-99d2-de217880887a" />
-  <img src="https://github.com/HelenaMaslowska/Figma-Essentials-Course-Gallery/assets/44245185/85fbe98a-8141-471c-a739-2d6bfeba410e" />
+  <img width=30% src="https://github.com/HelenaMaslowska/Figma-Essentials-Course-Gallery/assets/44245185/7883991a-32de-48ad-99d2-de217880887a" />
+  <img width=30% src="https://github.com/HelenaMaslowska/Figma-Essentials-Course-Gallery/assets/44245185/85fbe98a-8141-471c-a739-2d6bfeba410e" />
 </p>
 
 # Landing Page
 <p align="center">
-  <img src="https://github.com/HelenaMaslowska/Figma-Essentials-Course-Gallery/assets/44245185/9453d359-4cbe-43e3-9289-974d1870d5e2" />
+  <img width=30% src="https://github.com/HelenaMaslowska/Figma-Essentials-Course-Gallery/assets/44245185/9453d359-4cbe-43e3-9289-974d1870d5e2" />
 </p>
 
 # Posts
 <p align="center">
-  <img src="https://github.com/HelenaMaslowska/Figma-Essentials-Course-Gallery/assets/44245185/6a2e4fde-fbf9-4272-852b-14f60c4be248" />
-
+  <img width=30% src="https://github.com/HelenaMaslowska/Figma-Essentials-Course-Gallery/assets/44245185/6a2e4fde-fbf9-4272-852b-14f60c4be248" />
+  <img width=30% src="https://github.com/HelenaMaslowska/Figma-Essentials-Course-Gallery/assets/44245185/69ba3041-bfc7-4813-a9ea-a76dff83a216" />
 </p>
+
 
 # Comments
 <p align="center">
-  <img src="https://github.com/HelenaMaslowska/Figma-Essentials-Course-Gallery/assets/44245185/77d797a1-af36-4da5-b9fb-78cebe980656" />
+  <img width=30% src="https://github.com/HelenaMaslowska/Figma-Essentials-Course-Gallery/assets/44245185/77d797a1-af36-4da5-b9fb-78cebe980656" />
 </p>
 
 # Order Page
 <p align="center">
-  <img src="https://github.com/HelenaMaslowska/Figma-Essentials-Course-Gallery/assets/44245185/36783367-eab3-44fc-a1e2-486280779ec6" />
+  <img width=30% src="https://github.com/HelenaMaslowska/Figma-Essentials-Course-Gallery/assets/44245185/36783367-eab3-44fc-a1e2-486280779ec6" />
 </p>
 
 # Animation
